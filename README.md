@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
+[![Linkedin Badge](https://img.shields.io/badge/-arthur-arnoux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
 
 <!--
 **Arnouux/Arnouux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
