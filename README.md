@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur_Arnoux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
+[![Medium Badge](https://img.shields.io/badge/-Arthur_Arnoux-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@artux51)](https://medium.com/@artux51)
 
 <!--
 **Arnouux/Arnouux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
