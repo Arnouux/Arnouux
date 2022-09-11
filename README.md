@@ -1,16 +1,16 @@
 ### Hello there 👋
 
-<p>Welcome to my page! </br> I am Arthur, Software engineer living in Paris, France.</p>
+<p>Welcome to my Github page! </br> I am Arthur, Software engineer living in Paris, France.</p>
 
 #### My socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur_Arnoux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
-[![Medium Badge](https://img.shields.io/badge/-My_Medium_posts-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@artux51)](https://medium.com/@artux51)
+[![Medium Badge](https://img.shields.io/badge/-Medium_posts-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@artux51)](https://medium.com/@artux51)
 
 #### My Software Engineering tech stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
