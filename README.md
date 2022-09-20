@@ -2,6 +2,8 @@
 
 <p>Welcome to my Github page! </br> I am Arthur, Software engineer living in Paris, France.</p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnouux&layout=compact&count_private=true&hide=contribs,issues)](https://github.com/arnouux)
+
 #### My socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur_Arnoux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
@@ -27,13 +29,13 @@
 <a><img src="https://servicenav.coservit.com/wp-content/uploads/2022/05/18-1.jpg" alt="cplusplus" width="50" height="50"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="cplusplus" width="50" height="50"/></a>
 -->
-
   
 #### My ML tech stack
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 <!--
 **Arnouux/Arnouux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
