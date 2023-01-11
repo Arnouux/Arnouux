@@ -2,8 +2,6 @@
 
 <p>Welcome to my Github page! </br> I am Arthur, Software engineer living in Paris, France.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnouux&layout=compact&count_private=true&hide=contribs,issues)](https://github.com/arnouux)
-
 #### My socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur_Arnoux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-arnoux/)](https://www.linkedin.com/in/arthur-arnoux/)
